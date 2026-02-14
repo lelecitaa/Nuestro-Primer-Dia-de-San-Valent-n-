@@ -1,51 +1,50 @@
-# Nuestro-Primer-Dia-de-San-Valent-in-
-Para el amor de mi vida, por este y muchos San Valentines masss
+<div align="center">
 
-# 💘 Mi proyecto favorito
-> Status: ✅ En producción  
-> Relación: estable (larga distancia, pero fuerte 💪💞)
+# 💖 Nuestro primer San Valentín 💖
 
-Este repositorio está dedicado a **mi bolita de quesito favorita** 🧀💖  
-No es open-source, no acepta forks, y no necesita mejoras…  
-aunque todos los días se optimiza un poquito más contigo.
+Para el amor de mi vida,  
+por este y muchos San Valentines más 🥰
 
-## 🚀 Descripción
-Nos conocimos sin saber que ese día iba a cambiarlo todo.  
-Desde entonces, cada peli, cada juego y cada llamada contigo  
-se volvió parte de mi rutina favorita.
+![status](https://img.shields.io/badge/status-en%20producción-ff69b4)
+![love](https://img.shields.io/badge/love-infinito-ffb6c1)
+![distance](https://img.shields.io/badge/relación-larga%20distancia-purple)
+![player2](https://img.shields.io/badge/player%202-bolita%20de%20quesito🧀-pink)
 
-Aunque estemos lejos, siempre encontramos la forma  
-de compartir mundos:  
-🎬 películas  
-🎮 Minecraft, Roblox, Fortnite, Overcooked  
-💬 risas, silencios cómodos y mucho amor
+</div>
 
-## 🧠 Tech Stack
-- Amor genuino
-- Paciencia (larga distancia edition)
-- Humor compartido
-- Juegos cooperativos
-- Comunicación constante
-- Apodos ridículamente lindos
+---
 
-## 🛠 Features
-- Multiplayer a distancia
-- Soporte emocional 24/7
-- Compatibilidad total contigo
-- Buff permanente de felicidad
-- Sistema anti-soledad (llamadas + juegos)
+## 💘 Mi proyecto favorito
 
-## 🧪 Tests
-✔ Me haces sentir acompañada  
-✔ Me haces reír  
-✔ Me haces sentir segura  
-✔ Quiero seguir jugando la vida contigo  
+> 🧠 **Nota importante**  
+> Este repositorio no es open-source,  
+> no acepta forks (ni idea de que signifique eso)   
+> y está protegido por amor infinito <3
 
-## 📅 Timeline
-- 11 Jul 2025 — Todo empezó sin darnos cuenta  
-- 22 Ago 2025 — Oficialmente *nosotros* 💖  
-- ∞ — El resto de la historia (contigo)
+Este proyecto está dedicado a **mi bolita de quesito favorita** 🧀💖  
+No tiene ¨errores¨ graves,  
+solo una dependencia fuerte: **tú**.
 
-## ❤️ License
-Uso exclusivo de **bolita de quesito**  
-Renovable todos los días con besos virtuales y amor real.
+---
+
+## ¿Por qué existe este proyecto?
+Porque aunque estemos lejos,  
+siempre encontramos la forma de estar juntos,
+apesar de la distancia, 
+los dias malos y todo lo negativo, 
+simpre encontramos una manera de amarnos y solucionar todo.  
+
+🎬 viendo películas  
+🎮 jugando Minecraft, Roblox, Fortnite, Overcooked (aunque nos estresemos)   
+💬 hablando de todo y de nada  
+💞 eligiéndonos todos los días sin fin
+
+---
+
+## 🧠 Tech Stack (versión amor)
+- Amor genuino 
+- Paciencia (a veces no tanta)
+- Humor compartido (nuestros chistes rancios) 
+- Jueguitos que nos gustan 
+- Comunicación constante 
+- Apodos raritos y moinitoss jiji 
