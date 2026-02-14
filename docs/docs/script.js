@@ -1,4 +1,4 @@
 function showMessage() {
-  alert("Te amo, bolita de quesito 🧀💖");
+  const message = document.getElementById("message");
+  message.classList.remove("hidden");
 }
-
